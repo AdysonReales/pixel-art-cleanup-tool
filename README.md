@@ -4,6 +4,20 @@ An offline, rule-based pixel-art cleanup project with a browser app and an Asepr
 
 > This is an early tool for creating a starting point. It does not guarantee pixel-perfect lines, reconstruct an original pixel grid, or understand the contents of an image. Results often benefit from manual cleanup.
 
+## Examples
+
+The browser app shows the original and processed image side by side before download.
+
+### Portrait at 64 × 64
+
+![Portrait image before and after pixel cleanup](docs/portrait-example.png)
+
+### Heart at 32 × 32
+
+![Heart image before and after pixel cleanup](docs/heart-example.png)
+
+These screenshots show earlier interface versions; the current app includes additional options.
+
 ## Browser app
 
 Open `PixelCleanerStudio.html` in a modern browser. No installation or server is required.
